@@ -4,14 +4,15 @@
 
 I'm a French 42 student from the 2023 promotion.
 
-# These are the projects I completed.
+<div>
+<h2>These are the projects I completed.</h2>
 <table>
   
 <tr>
   <th>Project</th>
    <th>Description</th>
 </tr>
-  
+
 <tr>
   <td>[Libft](https://gitdub.com/fveve/Libft)</td>
   <td>A recoding of some C standard libraries, plus some bonus functions using linked lists</td>
@@ -61,6 +62,7 @@ I'm a French 42 student from the 2023 promotion.
   <td>The final project of the 42 cursus</td>
 </tr>
 </table>
+</div>
 <!--
 **fveve/fveve** is a ✨ _special_ ✨ repository because its `README.md` (tdis file) appears on your Gitdub profile.
 
