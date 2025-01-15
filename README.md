@@ -14,51 +14,51 @@ I'm a French 42 student from the 2023 promotion.
 </tr>
 
 <tr>
-  <td>[Libft](https://github.com/fveve/Libft)</td>
+  <td><a href="https://github.com/fveve/Libft">Libft</a></td>
   <td>A recoding of some C standard libraries, plus some bonus functions using linked lists</td>
 </tr>
 <tr>
-  <td>[get_next_line](https://github.com/fveve/get_next_line)</td>
+  <td><a href="https://github.com/fveve/get_next_line">get_next_line</a></td>
   <td>A useful function to read content in a file , one line at a time</td>
 </tr>
 <tr>
-  <td>[ft_printf](https://github.com/fveve/ft_printf)</td>
+  <td><a href="https://github.com/fveve/ft_printf">ft_printf</a></td>
   <td>A recoding of some printf funcions</td>
 </tr>
 <tr>
-  <td>[pipex](https://github.com/fveve/pipex)</td>
+  <td><a href="https://github.com/fveve/pipex">pipex</a></td>
   <td>A project that serves as an introduction to other bigger Unix projects, where i learned about pipes and redirections</td>
 </tr>
 <tr>
-  <td>[push_swap](https://github.com/fveve/push_swap)</td>
+  <td><a href="https://github.com/fveve/push_swap">push_swap</a></td>
   <td>A sorting algorithm</td>
 </tr>
 <tr>
-  <td>[Philosophers](https://github.com/fveve/Philosophers)</td>
+  <td><a href="https://github.com/fveve/Philosophers">Philosophers</a></td>
   <td>A project that serves as an introduction to threads</td>
 </tr>
 <tr>
-  <td>[minishell](https://github.com/fveve/minishell)</td>
+  <td><a href="https://github.com/fveve/minishell">minishell</a></td>
   <td>A simple shell</td>
 </tr>
 <tr>
-  <td>[cub3d](https://github.com/fveve/cub3d)</td>
+  <td><a href="https://github.com/fveve/cub3d">cub3d</a></td>
   <td>A simple 3D game</td>
 </tr>
 <tr>
-  <td>[CPP](https://github.com/fveve/CPP)</td>
+  <td><a href="https://github.com/fveve/CPP">CPP</a></td>
   <td>10 projects which helped me learn the basic of C++</td>
 </tr>
 <tr>
-  <td>[ft_irc](https://github.com/fveve/ft_irc)</td>
+  <td><a href="https://github.com/fveve/ft_irc">ft_irc</a></td>
   <td>My own IRC server</td>
 </tr>
 <tr>
-  <td>[Inception](https://github.com/fveve/Inception)</td>
+  <td><a href="https://github.com/fveve/Inception">Inception</a></td>
   <td>An introduction to the usage of Docker</td>
 </tr>
 <tr>
-  <td ><a href="https://github.com/fveve/ft_transcendence">[ft_transcendence]</a></td>
+  <td ><a href="https://github.com/fveve/ft_transcendence">ft_transcendence</a></td>
   <td>The final project of the 42 cursus</td>
 </tr>
 </table>
