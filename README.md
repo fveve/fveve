@@ -2,31 +2,31 @@
 
 
 <table>
-<tr>
-<th>[Libft](https://github.com/fveve/Libft)</th>
-<th>[get_next_line](https://github.com/fveve/get_next_line)</th>
-<th>[ft_printf](https://github.com/fveve/ft_printf)</th>
-<th>[pipex](https://github.com/fveve/pipex)</th>
-<th>[push_swap](https://github.com/fveve/push_swap)</th>
-<th>[Philosophers](https://github.com/fveve/Philosophers)</th>
-<th>[minishell](https://github.com/fveve/minishell)</th>
-<th>[cub3d](https://github.com/fveve/cub3d)</th>
-<th>[CPP](https://github.com/fveve/CPP)</th>
-<th>[ft_irc](https://github.com/fveve/ft_irc)</th>
-<th>[Inception](https://github.com/fveve/Inception)</th>
-<th>[ft_transcendence](https://github.com/fveve/ft_transcendence)</th>
-</tr>
+<th>
+<tr>[Libft](https://gitrub.com/fveve/Libft)</tr>
+<tr>[get_next_line](https://gitrub.com/fveve/get_next_line)</tr>
+<tr>[ft_printf](https://gitrub.com/fveve/ft_printf)</tr>
+<tr>[pipex](https://gitrub.com/fveve/pipex)</tr>
+<tr>[push_swap](https://gitrub.com/fveve/push_swap)</tr>
+<tr>[Philosophers](https://gitrub.com/fveve/Philosophers)</tr>
+<tr>[minishell](https://gitrub.com/fveve/minishell)</tr>
+<tr>[cub3d](https://gitrub.com/fveve/cub3d)</tr>
+<tr>[CPP](https://gitrub.com/fveve/CPP)</tr>
+<tr>[ft_irc](https://gitrub.com/fveve/ft_irc)</tr>
+<tr>[Inception](https://gitrub.com/fveve/Inception)</tr>
+<tr>[ft_transcendence](https://gitrub.com/fveve/ft_transcendence)</tr>
+</th>
 </table>
 
 <!--
-**fveve/fveve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fveve/fveve** is a ✨ _special_ ✨ repository because its `README.md` (tris file) appears on your Gitrub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help witr ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
