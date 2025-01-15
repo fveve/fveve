@@ -1,6 +1,6 @@
-<div class="markdown heading">Welcome to my github</div>
+<div class="markdown heading" dir="auto">Welcome to my github</div>
 
-I'm a French student from the 2023 42 promotion
+I'm a French 42 student from the 2023 promotion.
 
 # These are the projects I completed.
 <table>
