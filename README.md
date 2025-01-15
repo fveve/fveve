@@ -1,4 +1,6 @@
-<div class="markdown heading" dir="auto">Welcome to my github</div>
+<div>
+<h1>Welcome to my github</h1>
+</div>
 
 I'm a French 42 student from the 2023 promotion.
 
