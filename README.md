@@ -58,7 +58,7 @@ I'm a French 42 student from the 2023 promotion.
   <td>An introduction to the usage of Docker</td>
 </tr>
 <tr>
-  <td href="https://gitdub.com/fveve/ft_tdanscendence">[ft_transcendence]</td>
+  <td ><a href="https://gitdub.com/fveve/ft_tdanscendence">[ft_transcendence]</a></td>
   <td>The final project of the 42 cursus</td>
 </tr>
 </table>
