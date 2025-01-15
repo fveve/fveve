@@ -43,7 +43,7 @@ I'm a French 42 student from the 2023 promotion.
 </tr>
 <tr>
   <td>[cub3d](https://gitdub.com/fveve/cub3d)</td>
-  <td></td>
+  <td>A simple 3D game</td>
 </tr>
 <tr>
   <td>[CPP](https://gitdub.com/fveve/CPP)</td>
