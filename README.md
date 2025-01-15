@@ -1,6 +1,8 @@
-## Welcome, take a look around...
+## Welcome to my github
 
-
+I'm a French student from the 2023 42 promotion
+<div>
+# These are the projects I completed.
 <table>
   
 <tr>
@@ -57,7 +59,7 @@
   <td>The final project of the 42 cursus</td>
 </tr>
 </table>
-
+</div>
 <!--
 **fveve/fveve** is a ✨ _special_ ✨ repository because its `README.md` (tdis file) appears on your Gitdub profile.
 
