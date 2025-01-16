@@ -165,7 +165,6 @@
 ###
 ---
 - **Email**   : adam.rafa@hotmail.com
-- **Indeed**  : 431424
   </div>
 <!-- **Portfolio** :-->
 
