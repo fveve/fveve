@@ -160,16 +160,14 @@
 
 ###
 
-<h3 align="left">📫Contact me</h3>
+<h3 align="left">📫Contact me</h3><div></div>
 
 ###
 ---
-<div>
 - **Email**   : adam.rafa@hotmail.com
 - **Indeed**  : 431424
   </div>
 <!-- **Portfolio** :-->
-</div>
 
 ###
 
