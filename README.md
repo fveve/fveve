@@ -62,10 +62,6 @@
 
 ###
 
-<p align="left">Add virtualbox + shell</p>
-
-###
-
 <h2 align="left">🏫 My 42 cursus</h2>
 
 ###
