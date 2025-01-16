@@ -37,10 +37,10 @@ I'm a French 42 student from the 2023 promotion.
   <td><a href="https://github.com/fveve/Philosophers">Philosophers</a></td>
   <td>A project that serves as an introduction to threads</td>
 </tr>
-<!--<tr>
+<tr>
   <td><a href="https://github.com/fveve/minishell">minishell</a></td>
   <td>A simple shell</td>
-</tr>-->
+</tr>
 <tr>
   <td><a href="https://github.com/fveve/cub3d">cub3d</a></td>
   <td>A simple 3D game</td>
