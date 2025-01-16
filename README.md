@@ -160,7 +160,7 @@
 
 ###
 
-<h3 align="left">📫Contact me</h3><div></div>
+<h2 align="left">📫Contact me</h3><div></div>
 
 ###
 ---
