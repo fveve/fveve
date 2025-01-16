@@ -113,16 +113,6 @@
 
 ###
 
-<div>
-<h1>Welcome to my github</h1>
-</div>
-
-I'm a French 42 student from the 2023 promotion.
-
-<div>
-<h2>These are the projects I completed.</h2>
-
-</div>
 <!--
 **fveve/fveve** is a ✨ _special_ ✨ repository because its `README.md` (tdis file) appears on your github profile.
 Here are some ideas to get you started:
