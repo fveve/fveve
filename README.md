@@ -2,19 +2,63 @@
 
 ###
 
-<p align="left">My name is Adam and I'm a 42 student , from Perpignan.</p>
+<h2 align="left">👾 About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">Name : Adam RAFA<br>Age : 19 <br>Formation: 42 School<br>Localisation : Perpignan / Bellegarde, France</p>
 
 ###
 
-<p align="left">I'm a 42 student from the 2023 promotion.</p>
+<h2 align="left">💼 Aptitude</h2>
 
 ###
 
-<h2 align="left">My 42 cursus</h2>
+<h4 align="left">🔧 Backend :</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<h4 align="left">🎨 Frontend</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<h4 align="left">⚙️ Tools and Frameworks</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+</div>
+
+###
+
+<p align="left">Add virtualbox + shell</p>
+
+###
+
+<h2 align="left">🏫 My 42 cursus</h2>
 
 ###
 
@@ -77,51 +121,44 @@
 
 ###
 
-<h2 align="left">Right now I'm working on</h2>
+<h2 align="left">🌳 Right now I'm working on</h2>
 
 ###
 
-<p align="left"><a href="https://github.com/fveve/ft_transcendence">ft_transcendence</a></p>
+<p align="left">transcendence et autre</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">📊 My stats</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fveve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Arafa" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<h2 align="left">The languages I'm currently learning</h2>
+<p align="left"><div></div></p>
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fveve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">📫Contact me</h3>
+
+###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
 </div>
 
 ###
 
-<!--
-**fveve/fveve** is a ✨ _special_ ✨ repository because its `README.md` (tdis file) appears on your github profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help witd ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Add indeed + portfolio</p>
+
+###
