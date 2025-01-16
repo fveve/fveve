@@ -37,10 +37,10 @@ I'm a French 42 student from the 2023 promotion.
   <td><a href="https://github.com/fveve/Philosophers">Philosophers</a></td>
   <td>A project that serves as an introduction to threads</td>
 </tr>
-<tr>
+<!--<tr>
   <td><a href="https://github.com/fveve/minishell">minishell</a></td>
   <td>A simple shell</td>
-</tr>
+</tr>-->
 <tr>
   <td><a href="https://github.com/fveve/cub3d">cub3d</a></td>
   <td>A simple 3D game</td>
@@ -57,17 +57,15 @@ I'm a French 42 student from the 2023 promotion.
   <td><a href="https://github.com/fveve/Inception">Inception</a></td>
   <td>An introduction to the usage of Docker</td>
 </tr>
-<tr>
+<!--<tr>
   <td ><a href="https://github.com/fveve/ft_transcendence">ft_transcendence</a></td>
   <td>The final project of the 42 cursus</td>
-</tr>
+</tr>-->
 </table>
 </div>
 <!--
 **fveve/fveve** is a ✨ _special_ ✨ repository because its `README.md` (tdis file) appears on your github profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
