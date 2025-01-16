@@ -5,6 +5,7 @@
 <h2 align="left">👾 About me</h2>
 
 ###
+---
 
 <p align="left">Name : Adam RAFA<br>Age : 19 <br>Formation: 42 School<br>Localisation : Perpignan / Bellegarde, France</p>
 
@@ -13,6 +14,8 @@
 <h2 align="left">💼 Aptitude</h2>
 
 ###
+
+---
 
 <h4 align="left">🔧 Backend :</h4>
 
