@@ -7,7 +7,7 @@
 ###
 ---
 
-<p align="left">Name : Adam RAFA<br>Age : 19 <br>Formation: 42 School<br>Localisation : Perpignan / Bellegarde, France</p>
+<p align="left">Name : Adam RAFA<br>Age : 19 <br>Formation : 42 School<br>Localisation : Perpignan / Bellegarde, France</p>
 
 ###
 
@@ -131,7 +131,7 @@
 ###
 ---
 
-<p align="left">transcendence et autre</p>
+<p align="left">My current 42 project  : <a href="https://github.com/fveve/ft_transcendence">ft_transcendence</a><br>My current professional project: Looking for an internship</p>
 
 ###
 
