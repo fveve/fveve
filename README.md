@@ -50,6 +50,11 @@
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="virtualboc logo" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="virtualboc logo" height="30" />
+  
 </div>
 
 ###
@@ -152,13 +157,12 @@
 <h3 align="left">📫Contact me</h3>
 
 ###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+- **Email**   : adam.rafa@hotmail.com
+- **Indeed**  : 431424
+  
+<!-- **Portfolio** :-->
 </div>
 
 ###
-
-<p align="left">Add indeed + portfolio</p>
 
 ###
