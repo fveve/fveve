@@ -106,6 +106,10 @@
   <td>A simple shell</td>
 </tr>
 <tr>
+  <td><a href="https://github.com/fveve/so_long">so_long</a></td>
+  <td>A simple 2D game</td>
+</tr>
+<tr>
   <td><a href="https://github.com/fveve/cub3d">cub3d</a></td>
   <td>A simple 3D game</td>
 </tr>
