@@ -10,7 +10,7 @@
 - **Name** : Adam RAFA
 - **Age** : 19
 - **Formation** : 42 School
-- **Localisation** : Perpignan / Bellegarde, France
+- **Localisation** : Valserhône, France
 
 ###
 
