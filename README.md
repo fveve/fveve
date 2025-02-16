@@ -25,7 +25,10 @@
 ###
 
 <div align="left">
+  <img width="12" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" alt="pyhton logo"  />
 </div>
